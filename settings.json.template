@@ -10,10 +10,10 @@
   "address": "127.0.0.1:3001",
   
   // coin name
-  "coin": "Darkcoin",
+  "coin": "Bitaltcoin",
 
   // coin symbol
-  "symbol": "DRK",
+  "symbol": "BAI",
   
   // logo
   "logo": "/images/logo.png",
@@ -34,8 +34,8 @@
   // database settings (MongoDB)
   "dbsettings": {
     "user": "iquidus",
-    "password": "3xp!0reR",
-    "database": "explorerdb",
+    "password": "g85IFi-ZBYyt",
+    "database": "node",
     "address": "localhost",
     "port": 27017
   },
